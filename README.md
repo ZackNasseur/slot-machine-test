@@ -14,4 +14,4 @@ This project is a basic slot machine game built using modern JavaScript (ES6) an
 ## Installation & Running the Project
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/slot-machine.git
+   git clone https://github.com/ZackNasseur/slot-machine.git
